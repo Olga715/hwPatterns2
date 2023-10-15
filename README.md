@@ -1,0 +1,1 @@
+![Build status](https://ci.appveyor.com/api/projects/status/2mfnb59fs230qcvm?svg=true)](https://ci.appveyor.com/project/Olga715/hwpatterns2)
